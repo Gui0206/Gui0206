@@ -1,7 +1,10 @@
-[![MasterHead](https://i.gifer.com/3HeZ.gif)]
+![MasterHead](https://insideuniversity.com.br/wp-content/uploads/2023/11/image-1024x602.png)
+
 
 <h1 align="center">Hi 👋, I'm Guilherme Holanda</h1>
 <h3 align="center">Building a community for Brazilian startup founders at NewHack VC</h3>
+
+- Studying Computer Science at <strong>INTELI</strong> (Institute of Technology and Leadership)
 
 - 🔭 Community Manager at [NewHack](https://newhack.vc/)
 
