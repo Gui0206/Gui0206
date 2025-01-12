@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://newhack.circle.so/c/newsletter/](https://newhack.circle.so/c/newsletter/)
 
-- 🇧🇷 Sobre mim: Atualmente trabalho em uma startup que é ecossistema de apoio ao empreendedor e um fundo de Venture Capital chamado NewHack. Sou apaixonado por música e já toquei guitarra, tive a oportunidade de tocar em pequenos shows internacionais ao lado dos meus amigos e foram experiências incríveis! Gosto muito de ler, principalmente sobre o Catolicismo.
+- 🇧🇷 Sobre mim: Atualmente trabalho em uma startup que é um ecossistema de apoio ao empreendedor e um fundo de Venture Capital chamado NewHack. Sou apaixonado por música e já toquei guitarra, tive a oportunidade de tocar em pequenos shows internacionais ao lado dos meus amigos e foram experiências incríveis! Gosto muito de ler, principalmente sobre o Catolicismo.
 
 - 🇺🇸 About me: I currently work at a startup that is an entrepreneur-support ecosystem and a Venture Capital fund called NewHack. I’m passionate about music and have played guitar; I had the opportunity to perform at small international shows alongside my friends, and those were incredible experiences! I really enjoy reading, especially about Catholicism.
 
